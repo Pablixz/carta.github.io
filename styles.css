@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width:767px) /*adaptacion a movil*/ {
+
+    .login img {
+        margin: 20px;
+        height: 270px;
+        padding: 10px;
+    }
+    
+    .menu img {
+        height: 630px;
+    }
+
+    .cafe img {
+        height: 630px;
+    }
+}
